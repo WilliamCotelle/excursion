@@ -31,7 +31,7 @@ h1 {
 
 a {
   color: aquamarine;
-  font-size: 16px;
+  font-size: 21px;
 }
 
 /* main  */
@@ -76,4 +76,12 @@ h3 {
   align-items: center;
 
   margin-top: 20px;
+}
+
+/* footer Copyright  */
+
+footer {
+  font-size: 21px;
+  text-align: right;
+  color: gray;
 }
